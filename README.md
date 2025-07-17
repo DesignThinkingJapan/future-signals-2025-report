@@ -63,6 +63,9 @@ This report is licensed under [Creative Commons Attribution 4.0 International Li
 
 ## About Design Thinking Japan
 
-Design Thinking Japan has pioneered human-centered, AI-accelerated innovation since 2012. We stand at the intersection of strategic foresight and applied AI, helping organizations navigate technological transformation through hands-on exploration and rapid prototyping.
+Design Thinking Japan helps organizations find their fastest path from AI potential to measurable business outcomes.
+We combine proven design thinking methodologies with 14+ years of enterprise AI implementation to create solutions that work for your people and your business.
+Whether you're experimenting with AI, need quick wins to build momentum, or ready to scale existing initiatives - we meet you where you are and accelerate your journey forward.
+From innovation labs to enterprise deployment, we've helped global leaders transform workflows that took days into minutes.
 
 **Learn more**: [www.designthinkingjapan.com](https://www.designthinkingjapan.com)
