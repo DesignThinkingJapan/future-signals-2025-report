@@ -54,7 +54,7 @@ What stood out was how this moves beyond theoretical AI to applied intelligence 
 
 ```
 Design Thinking Japan (2025). Future Signals 2025: Strategic Technology Forecasting. 
-Leqd Reseaecher amd Author: Adalberto Gonzalez Ayala
+Lead Reseaecher amd Author: Adalberto Gonzalez Ayala
 Available at: https://github.com/DesignThinkingJapan/future-signals-2025-report
 ```
 
